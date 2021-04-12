@@ -1,0 +1,19 @@
+{
+  "name": "pratiqueevent",
+  "version": "1.0.0",
+  "description": "c'est juste pour pratiquer les evenements ..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bghd34/pratiqueEvent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bghd34/pratiqueEvent/issues"
+  },
+  "homepage": "https://github.com/Bghd34/pratiqueEvent#readme"
+}
